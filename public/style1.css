@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    background-color: gray;
+}
+
+.menu > ul{
+    list-style-type: none;
+    margin-left: 1100px;
+    
+}
+
+.menu > ul > li {
+    display: inline-block;
+    padding: 20px 15px;
+    
+}
+.menu > ul > li > a{
+    text-decoration: none;
+    color: #f1f1f1;
+    font-size: 20px;
+}
+.menu > ul > li:hover{
+    background-color: black;
+}
